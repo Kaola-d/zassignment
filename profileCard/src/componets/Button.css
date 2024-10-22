@@ -1,0 +1,15 @@
+.card img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.card{
+    background-color: lightslategray;
+    text-align: center;
+    width: 300px;
+}
+
+.child{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,16 @@
+.desrcr{
+    width: 50%;
+    
+    
+    img{
+        width: 200px;
+    }
+
+    h2{
+        width: 40%;
+    }
+
+    p{
+        width: 40%;
+    }
+}
